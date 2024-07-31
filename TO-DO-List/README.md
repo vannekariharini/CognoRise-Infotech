@@ -1,4 +1,4 @@
-# Todo-List-App
-Build a Todo List App in HTML CSS JavaScript | EASY BEGINNER TUTORIAL
+# Todo-List
 
-This is the perfect project for beginner web developers who are looking to expand their knowledge of HTML CSS and JavaScript. This beginner JavaScript tutorial will teach you how to use local browser storage to create a fully functional todo list app!
+● Built a simple to-do list application that allows users to add,edit, and delete tasks.
+● I have used HTML, CSS, and JavaScript for building this website
