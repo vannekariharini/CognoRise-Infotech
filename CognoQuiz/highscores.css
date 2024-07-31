@@ -1,0 +1,38 @@
+#highScoresList {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 4rem;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+}
+
+.high-score {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: #f7f9fc;
+  border-radius: 8px;
+  border: 1px solid #e1e4e8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #333;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.high-score:nth-child(odd) {
+  background-color: #f1f5f9;
+}
+
+.high-score:hover {
+  background-color: #e0e7ff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.high-score span {
+  font-weight: 600;
+  color: #4a90e2;
+}
